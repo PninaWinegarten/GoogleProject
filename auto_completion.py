@@ -85,3 +85,4 @@ class AutoCompletion:
                 result += [f"{sentence} " + "(" + sentence_data + f", {indexes[i][1]}) score: {scores}"]
                 completions_sentences += [sentence]
         return result
+

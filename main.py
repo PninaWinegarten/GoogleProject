@@ -24,3 +24,4 @@ if __name__ == '__main__':
     auto_complete = AutoCompletion()
     auto_complete.data_manager.reboot()
     user_interface(auto_complete)
+

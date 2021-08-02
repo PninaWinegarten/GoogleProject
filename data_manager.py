@@ -44,3 +44,4 @@ class DataManager:
     def get_trie(self):
         """Return the trie pointer"""
         return self.sentences_trie
+

@@ -40,3 +40,4 @@ class SentencesTrie:
                 return None, node
             current_node = current_node.children[ch]
         return current_node.sentences_indexes, current_node
+
