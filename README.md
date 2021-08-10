@@ -11,4 +11,4 @@ Ex:
 The system can also help the user by repairing the input to the most similar sentence.
 
 Ex:
-![capture](Examples/example1.png)
+![capture](Examples/example2.png)
