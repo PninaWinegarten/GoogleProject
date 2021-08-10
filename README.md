@@ -5,4 +5,5 @@ Implementation of sentences auto completion.
 
 The system saves data and uses it to complete the user input sentence with the best completion.
 
-Examples in the directory.
+Example:
+![caption](./examples)
