@@ -6,4 +6,4 @@ Implementation of sentences auto completion.
 The system saves data and uses it to complete the user input sentence with the best completion.
 
 Example:
-![caption](./examples)
+![caption](../examples/example1.png)
