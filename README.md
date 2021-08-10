@@ -9,7 +9,7 @@ If there are five sentences that the text is their sub-string, they will be retu
 If the user insert `#`, start a new word to search.
 
 The results will be from sentences within a given directory of text files.
-You can use your own directory. in the file `data_manager.py`, change the constant DATA_PATH to your own path.
+You can use your own directory. in the file `data_manager.py`, change the constant `DATA_PATH` to your own path.
 
 ### Ex1:
 ![capture](Examples/example1.png)
