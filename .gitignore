@@ -3,7 +3,6 @@
 # Byte-compiled / optimized / DLL files
 /__pycache__
 /.idea
-/Examples
 /2021-archive
 *.py[cod]
 *$py.class
